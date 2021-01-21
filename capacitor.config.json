@@ -1,0 +1,14 @@
+{
+  "appId": "com.rjose7.dailymoments",
+  "appName": "Daily Moments",
+  "bundledWebRuntime": false,
+  "linuxAndroidStudioPath": "/home/jose/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/201.6953283/bin/studio.sh",
+  "npmClient": "yarn",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  },
+  "cordova": {}
+}
