@@ -1,6 +1,6 @@
 {
   "appId": "com.rjose7.dailymoments",
-  "appName": "Daily Moments",
+  "appName": "daily-moments",
   "bundledWebRuntime": false,
   "linuxAndroidStudioPath": "/home/jose/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/201.6953283/bin/studio.sh",
   "npmClient": "yarn",
